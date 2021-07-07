@@ -1,0 +1,20 @@
+{
+  "name": "reactcrud",
+  "version": "1.0.0",
+  "description": "reactCrud",
+  "main": "index.js",
+  "scripts": {
+    "test": "react",
+    "start": ""
+  },
+  "author": "Abdul Rahim Ansari",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.0.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2",
+    "morgan": "^1.10.0"
+  }
+}

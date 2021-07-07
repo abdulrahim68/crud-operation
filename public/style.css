@@ -1,0 +1,33 @@
+form{
+color:black;
+}
+ 
+.data{
+    margin-bottom: 50px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(39, 38, 38);
+    color: white;
+    text-align: center;
+  }
+@media (max-width: 700px) {
+    .data th  {
+        padding: 2px;
+    }
+    .data td  {
+        padding: 2px;
+    }
+}
+@media (max-width: 540px) {
+    .data th {
+        font-size:8px;
+    }
+    .data td{
+        font-size:8px;
+    }
+
+}
