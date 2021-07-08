@@ -3,7 +3,7 @@ var path = require("path");
 var mongo = require("mongoose"); 
 var bodyParser = require('body-parser'); 
 var morgan = require("morgan");
-var db = require("./config.js");
+var db = require("./src/config.js");
 
 var app = express();
 var port = process.env.port || 3000;
